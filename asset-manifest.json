@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NguyenTheLuan/table-demo/static/css/main.5a59d8a1.css",
+    "main.js": "/NguyenTheLuan/table-demo/static/js/main.49b5e2c7.js",
+    "static/js/787.9c2b699e.chunk.js": "/NguyenTheLuan/table-demo/static/js/787.9c2b699e.chunk.js",
+    "index.html": "/NguyenTheLuan/table-demo/index.html",
+    "main.5a59d8a1.css.map": "/NguyenTheLuan/table-demo/static/css/main.5a59d8a1.css.map",
+    "main.49b5e2c7.js.map": "/NguyenTheLuan/table-demo/static/js/main.49b5e2c7.js.map",
+    "787.9c2b699e.chunk.js.map": "/NguyenTheLuan/table-demo/static/js/787.9c2b699e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a59d8a1.css",
+    "static/js/main.49b5e2c7.js"
+  ]
+}
